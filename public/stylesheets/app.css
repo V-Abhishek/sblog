@@ -1,0 +1,15 @@
+i.icon {
+	font-size: 3em;
+}
+
+.main.container {
+	margin-top: 7.0em;
+}
+
+#delete {
+	display: inline;
+}
+
+body {
+	background-color: #e7f0f0;
+}
