@@ -26,3 +26,12 @@ Sblog is a blog web application, designed and incorporated to allow users to pos
 - Semantic UI
 - Express
 - Mongoose
+
+### APPLICATION DEPLOYMENT
+
+- Ensure that you have installed Node.js, NPM, and MongoDB on your machine
+- Clone or download this repository on to your machine
+- Start MongoDB on your machine
+- Go to the cloned or downloaded project and install dependencies using `npm install` command in your Terminal
+- Start the application using `node app.js` command in your Terminal
+- Go to your browser and enter `http://localhost:3000/` and start blogging
