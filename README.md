@@ -16,4 +16,13 @@ Sblog is a blog web application, designed and incorporated to allow users to pos
 
 2. Users can edit and delete their previously posted blogs
 
-    <img alt="new" src="https://github.com/v-abhishek/sblog/blob/master/images/newblog.JPG" />
+    <img alt="edit" src="https://github.com/v-abhishek/sblog/blob/master/images/editblog.JPG" />
+
+### LANGUAGE, TOOLS and FRAMEWORK
+
+- JavaScript
+- Node.js
+- MongoDB
+- Semantic UI
+- Express
+- Mongoose
